@@ -176,3 +176,6 @@ Não há prazo rígido. Trabalhe no seu ritmo, mas considere que uma solução c
 Abra uma issue neste repositório ou entre em contato com o time de avaliação.
 
 **Boa sorte! 🚀**
+
+## Exemplo
+[Markdown Preview](https://dbrno.vercel.app/md)
