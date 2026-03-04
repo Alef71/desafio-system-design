@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: markdown-api
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/markdown_db
+    redis:
+      host: localhost
+      port: 6379
